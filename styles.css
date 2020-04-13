@@ -1,0 +1,54 @@
+body {
+    text-align: center;
+}
+
+header {
+    margin: 0;
+    width: 100vw;
+    background-color: dodgerblue;
+    padding: 12px;
+    box-shadow: 10px 5px 5px black;
+}
+
+header h1 {}
+
+main {
+/*    display: flex;*/
+}
+
+main p {}
+
+main img {
+    border-radius: 50%;
+    width: 400px;
+}
+
+main h2 {}
+
+main br {}
+
+main ol {}
+
+main li {
+    margin: auto;
+}
+
+footer {
+    margin: 0;
+    width: 100vw;
+    background-color: dodgerblue;
+    padding: 12px;
+    box-shadow: 10px 5px 5px black;
+}
+
+footer h2 {}
+
+footer h2 a {
+    color: black;
+}
+
+footer p {}
+
+footer p a {}
+
+li.tag {}
