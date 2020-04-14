@@ -44,11 +44,17 @@ main {
     margin: 10px;
     border-radius: 7px;
 }
+.jsicon {
+    opacity: 0.5;
+}
+/* .jsicon:hover {
+    opacity: 1;
+} */
 
 .myimg {
     margin-top: 100px;
     border-radius: 50%;
-    width: 350px;
+    width: 38vmax;
 }
 
 
